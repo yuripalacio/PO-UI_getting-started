@@ -1,5 +1,9 @@
 # SampleUniversidade
 
+<h1 align="center">
+    <img alt="twitter-clone" title="#TwitterClone" src=".github/main.png" width="1000px" />
+</h1>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
 ## Development server
